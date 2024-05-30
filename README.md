@@ -1,0 +1,1 @@
+The “Damn Vulnerable DeFi” war game teaches about the offensive security of Ethereum DeFi smart contracts through simulations featuring various DeFi components, such as flash loans, price oracles, governance, NFTs, DEXs, lending pools, smart contract wallets, timelocks, and more.
